@@ -6,11 +6,14 @@
 ---
 
 ## 🚀 About Me
-- 💻 Experienced **Backend Engineer**  
-- ⚡ **Elixir** (scalable, fault-tolerant apps)  
-- ☕ **Java** (Spring Boot, integrations)  
-- 🛠️ Passionate about **API integrations, performance, and reliability**  
+- 💻 Experienced **Backend Engineer**
+- ☕ **Java** (Spring Boot, integrations)
+- ⚡ **Elixir** (scalable, fault-tolerant apps)    
+- Strong background in **API integrations, high-performance systems, and site reliability**  
+- Experience leading teams and delivering **production-ready, highly available applications**  
+- Passionate about building systems that are **resilient, maintainable, and future-proof**
 - 🏜️ Living & coding in the desert 🌵
+
 
 ---
 
